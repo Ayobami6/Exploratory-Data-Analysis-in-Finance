@@ -11,11 +11,11 @@ This is a capstone project from my class in ibm data analysis with python, data 
 
 ## Analysis Objectives 
 
-1. What is the share of clients attracted in our source data?
-2. What are the mean values of numerical features among the attracted clients?
-3. What is the average call duration for the attracted clients?
-4. What is the average age among the attracted and unmarried clients?
-5. What is the average age and call duration for different types of client employment?
+1. What is the share of clients attracted in our source data
+2. What are the mean values of numerical features among the attracted clients
+3. What is the average call duration for the attracted clients
+4. What is the average age among the attracted and unmarried clients
+5. What is the average age and call duration for different types of client employment
 
 ## Libraries 
 >- Pandas
