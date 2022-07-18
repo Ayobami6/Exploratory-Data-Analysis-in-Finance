@@ -5,7 +5,7 @@
 This is a capstone project from my class in ibm data analysis with python, data provided in the classroom 
 
 ## Project Goals
-1. Explore a banking dataset with Pandas framework.
+1. Explore a banking dataset with Pandas framework
 2. Build pivot tables.
 3. Visualize the dataset with various plot types
 
